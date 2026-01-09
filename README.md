@@ -1,4 +1,4 @@
-#👋 Mohamed Hatem
+👋 Mohamed Hatem
 
 🛡️ SOC Analyst (Junior) | Cyber Security | Python
 
