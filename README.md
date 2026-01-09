@@ -17,7 +17,7 @@ Incident Handling : Identify → Analyze → Report
 
 Documentation : Clear reports & findings
 
-#🔧 Technical Skills
+🔧 Technical Skills
 
 Python : Sockets, Automation, Parsing Logs
 
@@ -48,7 +48,7 @@ Git & GitHub
 🔹 SOC Notes & Writeups
 
 
-##📊 What I Can Do in a SOC
+📊 What I Can Do in a SOC
 
 Monitor logs & alerts
 
