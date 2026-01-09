@@ -1,5 +1,5 @@
 #👋 Mohamed Hatem
-##🛡️ SOC Analyst (Junior) | Cyber Security | Python
+🛡️ SOC Analyst (Junior) | Cyber Security | Python
 
 Cyber Security learner focused on SOC Operations with hands-on labs in monitoring, detection, and incident analysis.
 I build defensive-focused projects using Python and networking fundamentals to simulate real SOC workflows.
